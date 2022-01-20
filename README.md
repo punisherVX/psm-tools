@@ -48,4 +48,5 @@ pip3 install netmiko
 </div>
 
 
-
+## Support Policy
+The code and templates in the repo are released under an as-is, best effort, support policy. These scripts should be seen as community supported and Pensando will contribute our expertise as and when possible. We do not provide technical support or help in using or troubleshooting the components of the project through our normal support options. Unless explicitly tagged, all projects or work posted in our GitLab repository (at https://gitlab.com/Pensando) or sites other than our official Downloads page on https://support.pensando.io are provided under the best effort policy.
